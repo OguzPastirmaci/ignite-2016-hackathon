@@ -49,3 +49,11 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 - Azure Quickstart Templates
 
 [https://github.com/Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
+
+# I need help, who should I ask?
+
+| Name          | Skills        | 
+| ------------- |:-------------:|
+| William       | Git, JavaScript, DevOps Generalist | 
+| Oguz          | Turkish Coffee| 
+
