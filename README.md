@@ -60,4 +60,4 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 | Jeremy Likness     | Developer                          |
 | Kevin Remde        | IT Pro                             |
 | Oguz Pastirmaci    | IaC, Azure IaaS, DevOps Generalist |
-| William Buchwalter | Git, JavaScript, DevOps Generalist |
+| William Buchwalter | Git, Developer, DevOps Generalist |
