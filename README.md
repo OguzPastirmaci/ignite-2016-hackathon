@@ -11,7 +11,7 @@
 
 # How are we going to be evaluated? #
 
-You will be evaluated based on the DevOps practices implemented in your project, NOT based on your application itself. Implementing "Infrastructure as Code" and "Continuous Integration" practices is mandatory. Every other DevOps practice will earn you bonus points.
+Your team will be evaluated based on the DevOps practices implemented in your project, NOT based on your application itself. Implementing "Infrastructure as Code" and "Continuous Integration" practices is mandatory. Every other DevOps practice implementation will earn your team bonus points.
 
 
 # I don't want to build an application from scratch. Are there any ready projects I can use? #
