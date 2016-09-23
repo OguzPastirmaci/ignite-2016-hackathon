@@ -1,6 +1,6 @@
-##Projects you can use##
+# I don't want to build an application from scratch. Are there any ready projects I can use? #
 
-NOTE: Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for DevOps practices.
+You can use the following projects. Please note that Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for DevOps practices.
 
 - [PartsUnlimited (.Net)](https://github.com/Microsoft/PartsUnlimited)
 
@@ -17,13 +17,22 @@ NOTE: Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for D
 - [Chaos Dingo (Fault Injection for Azure IaaS](https://github.com/jmspring/chaos-dingo)
 
 
+# How do I sign up for Visual Studio Team Services?#
 
-##Resources for DevOps Practices##
-
-- [Blog post explaining the practices](http://www.itproguy.com/devops-practices/)
+Please use the documentation [here](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) for signing up for Visual Studio Team Services (VSTS) and managing accounts in VSTS. **Set up Team Services** and **Account access** parts on the left menu has the necessary information.
 
 
-**Infrastructure as Code**
+# How do I use my Azure Pass code? #
+
+Please follow the instructions [here](https://www.microsoftazurepass.com/) to use your Microsoft Azure Pass code
+
+
+# Where can I learn more about the DevOps practices? #
+
+You can read [this blog post](http://www.itproguy.com/devops-practices/) to learn more about the DevOps practices. 
+
+
+# Where can I learn more about Infrastructure as Code? #
 
 - Azure Resource Manager documentation
 
@@ -40,9 +49,3 @@ NOTE: Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for D
 - Azure Quickstart Templates
 
 [https://github.com/Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
-
-
-
-
-
-
