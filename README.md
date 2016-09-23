@@ -52,8 +52,12 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 
 # I need help, who should I ask?
 
-| Name          | Skills        | 
-| ------------- |:-------------:|
-| William       | Git, JavaScript, DevOps Generalist | 
-| Oguz          | Turkish Coffee| 
-
+| Name               | Skills                             |
+|--------------------|------------------------------------|
+| Aaron Nelson       | Developer                          |
+| Ian Philpot        | Developer                          |
+| Jennelle Crothers  | IT Pro                             |
+| Jeremy Likness     | Developer                          |
+| Kevin Remde        | IT Pro                             |
+| Oguz Pastirmaci    | IaC, Azure IaaS, DevOps Generalist |
+| William Buchwalter | Git, JavaScript, DevOps Generalist |
