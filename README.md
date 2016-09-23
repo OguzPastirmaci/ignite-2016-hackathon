@@ -14,7 +14,7 @@
 Your team will be evaluated based on the DevOps practices implemented in your project, NOT based on your application itself. Implementing "Infrastructure as Code" and "Continuous Integration" practices is mandatory. Every other DevOps practice implementation will earn your team bonus points.
 
 
-# I don't want to build an application from scratch. Are there any ready projects I can use? #
+# I don't want to build an application from scratch. Are there any ready projects that I can use? #
 
 You can use the following projects. Please note that Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for DevOps practices.
 
@@ -30,7 +30,7 @@ You can use the following projects. Please note that Parts Unlimited & Parts Unl
 
 - [Docker Voting App (Containers)](https://github.com/docker/example-voting-app)
 
-- [Chaos Dingo (Fault Injection for Azure IaaS](https://github.com/jmspring/chaos-dingo)
+- [Chaos Dingo (Fault Injection for Azure IaaS)](https://github.com/jmspring/chaos-dingo)
 
 
 # How do I sign up for Visual Studio Team Services?#
