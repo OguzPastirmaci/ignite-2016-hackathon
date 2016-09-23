@@ -1,3 +1,19 @@
+# What is the agenda? #
+
+| Time        | Topic                                    |
+|-------------|------------------------------------------|
+| 8:00-9:00   | Breakfast                                |
+| 9:00-10:30  | Presentations                            |
+| 10:30-12:00 | Hacking                                  |
+| 12:00-1:00  | Lunch                                    |
+| 1:00-4:00   | Hacking                                  |
+| 4:00-5:00   | Project presentations (3 mins each team) |
+
+# How are we going to be evaluated? #
+
+You will be evaluated based on the DevOps practices implemented in your project, NOT based on your application itself. Implementing "Infrastructure as Code" and "Continuous Integration" practices is mandatory. Every other DevOps practice will earn you bonus points.
+
+
 # I don't want to build an application from scratch. Are there any ready projects I can use? #
 
 You can use the following projects. Please note that Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for DevOps practices.
