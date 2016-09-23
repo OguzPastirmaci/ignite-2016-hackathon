@@ -40,7 +40,7 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 
 - [Working with Azure Resource Manager Templates in Visual Studio Code](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-vs-code/)
 
-- [Azure Quickstart Templates](ttps://github.com/Azure/azure-quickstart-templates)
+- [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 
 # I need help, who should I ask?
 
