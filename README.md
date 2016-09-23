@@ -34,21 +34,13 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 
 # Where can I learn more about Infrastructure as Code? #
 
-- Azure Resource Manager documentation
+- [Azure Resource Manager documentation](https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/](https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/)
 
-[https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/](https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/)
+- A[zure Resource Manager template walkthrough](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-template-walkthrough)
 
-- Azure Resource Manager template walkthrough
+- [Working with Azure Resource Manager Templates in Visual Studio Code](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-vs-code/)
 
-[https://azure.microsoft.com/en-us/documentation/articles/resource-manager-template-walkthrough/](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-template-walkthrough/)
-
-- Working with Azure Resource Manager Templates in Visual Studio Code
-
-[https://azure.microsoft.com/en-us/documentation/articles/resource-manager-vs-code/](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-vs-code/)
-
-- Azure Quickstart Templates
-
-[https://github.com/Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
+- [Azure Quickstart Templates](ttps://github.com/Azure/azure-quickstart-templates)
 
 # I need help, who should I ask?
 
