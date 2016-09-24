@@ -18,9 +18,9 @@ Your team will be evaluated based on the DevOps practices implemented in your pr
 
 You can use the following projects. Please note that Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for DevOps practices.
 
-- [PartsUnlimited (.Net)](https://github.com/Microsoft/PartsUnlimited)
+- [PartsUnlimited (.Net)](http://microsoft.github.io/PartsUnlimited/)
 
-- [PartsUnlimitedMRP (Java)](https://github.com/Microsoft/PartsUnlimitedMRP)
+- [PartsUnlimitedMRP (Java)](https://microsoft.github.io/PartsUnlimitedMRP/)
 
 - [Fabrikam Fiber (.Net)](https://github.com/dtzar/FabrikamFiber)
 
