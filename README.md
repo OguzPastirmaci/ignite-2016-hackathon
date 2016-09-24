@@ -60,12 +60,11 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 
 # I need help, who should I ask?
 
-| Name               | Skills                             |
-|--------------------|------------------------------------|
-| Aaron Nelson       | Developer                          |
-| Ian Philpot        | Developer                          |
-| Jennelle Crothers  | IT Pro                             |
-| Jeremy Likness     | Developer                          |
-| Kevin Remde        | IT Pro                             |
-| Oguz Pastirmaci    | IaC, Azure IaaS, DevOps Generalist |
-| William Buchwalter | Git, Developer, DevOps Generalist |
+| Aaron Nelson       | Dev - SQL                                           |
+|--------------------|-----------------------------------------------------|
+| Ian Philpot        | Dev                                                 |
+| Jennelle Crothers  | Ops                                                 |
+| Jeremy Likness     | Dev - Docker, .NET, JavaScript, ASP.NET MVC, DevOps |
+| Kevin Remde        | Ops                                                 |
+| Oguz Pastirmaci    | Ops - IaC, Azure IaaS, Docker, DevOps               |
+| William Buchwalter | Dev - Git, DevOps                                   |
