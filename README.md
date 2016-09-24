@@ -67,4 +67,4 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 | Jeremy Likness     | Dev - Docker, .NET, JavaScript, ASP.NET MVC, DevOps |
 | Kevin Remde        | Ops                                                 |
 | Oguz Pastirmaci    | Ops - IaC, Azure IaaS, Docker, DevOps               |
-| William Buchwalter | Dev - Git, DevOps                                   |
+| William Buchwalter | Dev - Git, DevOps, Docker, JavaScript                                   |
