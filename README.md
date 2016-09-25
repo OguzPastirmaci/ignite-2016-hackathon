@@ -73,8 +73,8 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 
 |    Name            | SKills                                                    |
 |--------------------|-----------------------------------------------------|
-| Aaron Nelson       | Dev -SQL                                            |
-| Ian Philpot        | Dev                                                 |
+| Aaron Nelson       | Dev - SQL                                            |
+| Ian Philpot        | Dev - Git, Docker, DevOps, C#                                                 |
 | Jennelle Crothers  | Ops - Azure IaaS, ARM Templates, CI, DevOps         |
 | Jeremy Likness     | Dev - Docker, .NET, JavaScript, ASP.NET MVC, DevOps |
 | Kevin Remde        | Ops - IaC, ARM Templates                                               |
