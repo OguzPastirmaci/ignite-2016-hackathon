@@ -77,6 +77,6 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 | Ian Philpot        | Dev                                                 |
 | Jennelle Crothers  | Ops - Azure IaaS, ARM Templates, CI, DevOps         |
 | Jeremy Likness     | Dev - Docker, .NET, JavaScript, ASP.NET MVC, DevOps |
-| Kevin Remde        | Ops                                                 |
+| Kevin Remde        | Ops - IaC, ARM Templates                                               |
 | Oguz Pastirmaci    | Ops - IaC, Azure IaaS, Docker, DevOps               |
 | William Buchwalter | Dev - Git, DevOps, Docker, JavaScript               |
