@@ -38,9 +38,11 @@ You can use the following projects. Please note that Parts Unlimited & Parts Unl
 Please use the documentation [here](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) for signing up for Visual Studio Team Services (VSTS) and managing accounts in VSTS. **Set up Team Services** and **Account access** parts on the left menu has the necessary information.
 
 
-# How do I use my Azure Pass code? #
+# I need an Azure subscription. How can I get an Azure Pass code? #
 
-Please follow the instructions [here](https://www.microsoftazurepass.com/) to use your Microsoft Azure Pass code
+Please send an email to oguzp@microsoft.com or askkevin@microsoft.com
+
+After you receive the code, please follow the instructions [here](https://www.microsoftazurepass.com/) to use your Microsoft Azure Pass code
 
 
 # Where can I learn more about the DevOps practices? #
