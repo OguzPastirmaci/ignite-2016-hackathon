@@ -69,8 +69,6 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 
 - [Parts Unlimited MRP Continuous Integration hands-on labs](https://microsoft.github.io/PartsUnlimitedMRP/fundvsts/fund-01-MS-CI.html)
 
-- 
-
 # I need help, who should I ask?
 
 | Aaron Nelson       | Dev - SQL                                           |
