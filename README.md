@@ -40,7 +40,7 @@ Please use the documentation [here](https://www.visualstudio.com/en-us/docs/setu
 
 # I need an Azure subscription. How can I get an Azure Pass code? #
 
-Please send an email to oguzp@microsoft.com or askkevin@microsoft.com
+Please send an email to askkevin@microsoft.com or oguzp@microsoft.com
 
 After you receive the code, please follow the instructions [here](https://www.microsoftazurepass.com/) to use your Microsoft Azure Pass code
 
