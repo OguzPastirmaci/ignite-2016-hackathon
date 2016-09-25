@@ -16,7 +16,7 @@ Your team will be evaluated based on the DevOps practices implemented in your pr
 
 # I don't want to build an application from scratch. Are there any ready projects that I can use? #
 
-You can use the following projects. Please note that Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for DevOps practices.
+You can use the following projects. Please note that Parts Unlimited & Parts Unlimited MRP projects include Hands On Labs for fundamental DevOps practices.
 
 - [PartsUnlimited (.Net)](http://microsoft.github.io/PartsUnlimited/)
 
@@ -45,8 +45,7 @@ Please follow the instructions [here](https://www.microsoftazurepass.com/) to us
 
 # Where can I learn more about the DevOps practices? #
 
-You can read [this blog post](http://www.itproguy.com/devops-practices/) to learn more about the DevOps practices. 
-
+You can read [this blog post](http://www.itproguy.com/devops-practices/) to learn more about the DevOps practices. [Team Services and TFS Documentation](https://www.visualstudio.com/docs/overview) is also a great starting point.
 
 # Where can I learn more about Infrastructure as Code? #
 
@@ -57,6 +56,20 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 - [Working with Azure Resource Manager Templates in Visual Studio Code](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-vs-code/)
 
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+
+# Where can I learn more about Continuous Integration? #
+
+- [Visual Studio Team Services Build](https://www.visualstudio.com/docs/build/overview)
+
+- [Build your .NET app for Windows](https://www.visualstudio.com/docs/build/get-started/dot-net)
+
+- [Build your Java app with Maven](https://www.visualstudio.com/docs/build/get-started/java-maven)
+
+- [Parts Unlimited Continuous Integration hands-on labs](https://microsoft.github.io/PartsUnlimited/45/45-ci.html)
+
+- [Parts Unlimited MRP Continuous Integration hands-on labs](https://microsoft.github.io/PartsUnlimitedMRP/fundvsts/fund-01-MS-CI.html)
+
+- 
 
 # I need help, who should I ask?
 
