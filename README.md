@@ -71,8 +71,9 @@ You can read [this blog post](http://www.itproguy.com/devops-practices/) to lear
 
 # I need help, who should I ask?
 
-| Aaron Nelson       | Dev - SQL                                           |
+|    Name            | SKills                                                    |
 |--------------------|-----------------------------------------------------|
+| Aaron Nelson       | Dev -SQL                                            |
 | Ian Philpot        | Dev                                                 |
 | Jennelle Crothers  | Ops - Azure IaaS, ARM Templates, CI, DevOps         |
 | Jeremy Likness     | Dev - Docker, .NET, JavaScript, ASP.NET MVC, DevOps |
