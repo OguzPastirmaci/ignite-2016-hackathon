@@ -3,7 +3,7 @@
 | Time        | Topic                                    |
 |-------------|------------------------------------------|
 | 8:00-9:00   | Breakfast                                |
-| 9:00-10:30  | Presentations ([Slides Here](aka.ms/devopsebc))                            |
+| 9:00-10:30  | Presentations ([Slides Here](http://aka.ms/devopsebc))                            |
 | 10:30-12:00 | Hacking                                  |
 | 12:00-1:00  | Lunch                                    |
 | 1:00-4:00   | Hacking                                  |
